@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome👋   
+
+<a href="https://velog.io/@yeony402" target="_blank"><img src="https://img.shields.io/badge/velog-FFFFFF?style=flat-square&logo=velog&logoColor=7CD296"/></a>  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeony402&show_icons=true&theme=radical)
 
 <!--
 **yeony402/yeony402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
